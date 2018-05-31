@@ -47,5 +47,6 @@ const styles = StyleSheet.create({
       fontSize: 38,
       color: '#fff',
       fontWeight: 'bold',
+      marginBottom: 80, 
     }
 });
